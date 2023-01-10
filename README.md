@@ -26,9 +26,11 @@ I'm Tonmoy Roy.
 #### Github Stats
 
 ![GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&show_icons=true&theme=tokyonight#gh-dark-mode-only)
-![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&show_icons=true&theme=default#gh-light-mode-only)
 
-#### Languages stats
+<!-- ![GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&show_icons=true&theme=default#gh-light-mode-only) -->
 
-![Language stats](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&count_private=true&&show_icons=true&theme=dark#gh-dark-mode-only)
-![Language stats](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&count_private=true&&show_icons=true&theme=default#gh-light-mode-only)
+#### Languages Stats
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=rx-devs&langs_count=8&show_icons=true&theme=dark#gh-dark-mode-only)
+
+<!-- ![Language stats](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&count_private=true&show_icons=true&theme=default#gh-light-mode-only) -->
