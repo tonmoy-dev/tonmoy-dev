@@ -25,4 +25,8 @@ I'm Tonmoy Roy.
 
 #### Github Stats
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&count_private=true&theme=tokyonight&hide=contribs,prs)
+![My github stats](https://github-readme-stats.vercel.app/api?username=tonmoy-dev&show_icons=true&locale=en)
+
+#### Languages stats
+
+![Language stats](https://github-readme-stats.vercel.app/api/top-langs/?username=tonmoy-dev&langs_count=8)
